@@ -1,3 +1,6 @@
+
+// decompose les nombres allant de 1 à 2000 en somme minimale de cubes. 
+
 #include <iostream>
 #include <map>
 #include <stdlib.h>
